@@ -1,2 +1,2 @@
-# Sky Striker dot html
+# School Website
 Sky Striker
